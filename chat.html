@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AI Chatbot | AI Hospital</title>
+  <link rel="stylesheet" href="css/dashboard.css">
+</head>
+<body>
+  <div class="chat-app">
+    <aside class="chat-sidebar">
+      <div class="brand-compact">
+        <img src="images/logo.png" alt="Logo" class="brand-logo">
+        <div class="brand-text">
+          <strong>AI Chat</strong>
+          <small class="muted">Clinical assistant</small>
+        </div>
+      </div>
+
+      <div class="chat-list">
+        <button class="chat-item active">New Chat</button>
+      </div>
+
+      <div class="sidebar-footer">
+        <a href="dashboard.html" class="btn-back">← Back to Dashboard</a>
+      </div>
+    </aside>
+
+    <main class="chat-main">
+      <header class="chat-header">
+        <div>
+          <h3 id="chatTitle">AI Symptom Assistant</h3>
+          <p class="muted">Ask about symptoms, tests, or patient triage.</p>
+        </div>
+      </header>
+
+      <div id="chatWindow" class="chat-window">
+        <!-- messages will appear here -->
+      </div>
+
+      <form id="chatForm" class="chat-form">
+        <input id="chatInput" autocomplete="off" placeholder="Type your question (example: 'Patient has fever and cough...')" />
+        <button type="submit" class="send-btn">Send</button>
+      </form>
+    </main>
+  </div>
+
+  <script src="js/chat.js"></script>
+</body>
+</html>
