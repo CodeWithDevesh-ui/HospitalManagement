@@ -5,6 +5,11 @@ This project demonstrates basic hospital operations such as **user authenticatio
 
 ---
 
+## 🎥 Live Demo
+👉 https://hospital-management-gky5-99whzst5k-codewithdevesh-uis-projects.vercel.app/
+
+---
+
 ## 🚀 Features
 
 ### ✅ User Authentication
