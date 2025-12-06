@@ -1,12 +1,12 @@
 # HospitalManagement
-This is a simple web-based hospital management system built using HTML, CSS, and JavaScript.
-A simple, beginner-friendly Hospital Management System built using HTML, CSS, and JavaScript.
-This mini-project demonstrates basic hospital operations such as login/signup, managing appointments, and interacting with a basic AI chatbot. Designed with a clean, modern UI suitable for web development projects.
-🚀 Features
-✅ User Authentication
+This is a beginner-friendly and simple web-based hospital management system built using HTML, CSS, and JavaScript.
 
-Sign Up (Name, Age, Gender, Email, Phone, Aadhaar, Username, Password)
-Login (using Username + Password)
+This mini-project demonstrates basic hospital operations such as login/signup, managing appointments, and interacting with a basic AI chatbot. Designed with a clean, modern UI suitable for web development projects.  
+🚀 Features  
+✅ User Authentication  
+
+Sign Up (Name, Age, Gender, Email, Phone, Aadhaar, Username, Password)  
+Login (using Username + Password)  
 Stored using localStorage (demo purpose only)
 
 ✅ Dashboard
